@@ -1,0 +1,16 @@
+reddit:
+  client_id: YOUR_CLIENT_ID
+  client_secret: YOUR_CLIENT_SECRET
+  user_agent: YOUR_USER_AGENT
+
+subreddits:
+  - technology
+  - worldnews
+  - AskReddit
+
+ollama:
+  model: llama2
+
+analysis:
+  posts_limit: 100
+  time_filter: day
