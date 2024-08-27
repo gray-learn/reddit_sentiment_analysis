@@ -10,32 +10,6 @@ This project uses Large Language Models (LLMs) to perform sentiment analysis on 
 - Visualize sentiment distribution
 - Save results to CSV files
 
-## Project Structure
-
-eddit_sentiment_analysis/
-│
-├── config/
-│ └── config.yaml
-│
-├── data/
-│ └── .gitkeep
-│
-├── models/
-│ └── .gitkeep
-│
-├── src/
-│ ├── init.py
-│ ├── data_collection.py
-│ ├── data_preprocessing.py
-│ ├── sentiment_analysis.py
-│ ├── visualization.py
-│ └── utils.py
-│
-│
-├── main.py
-├── requirements.txt
-└── README.md
-
 ## Setup
 
 1. Clone the repository:
