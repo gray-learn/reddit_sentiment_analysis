@@ -70,3 +70,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License.
+
+## test
+
+    python main.py --url "https://www.reddit.com/r/askTO/comments/1aocio8/your_toronto_food/"
